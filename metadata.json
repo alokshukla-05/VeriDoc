@@ -1,0 +1,6 @@
+{
+  "name": "VeriDoc Academic - Plagiarism & Citation Intelligence",
+  "description": "Enterprise-grade academic plagiarism detection, multi-source originality scanning, in-depth citation audit reports, and unlimited bulk document verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
